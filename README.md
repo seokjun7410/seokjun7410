@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=f6f8fa&text=JOONY🐤)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=f6f8fa&text=🖥️JOONY🐤)
   
 </div>
 
