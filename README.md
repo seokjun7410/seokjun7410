@@ -88,10 +88,10 @@
 # tech
 [redis](https://github.com/seokjun7410/hoding/issues/46#issue-2023689672)
 </div>
-
+<hr>
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokjun7410&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <br>
 ![seokjun7410's github stats](https://github-readme-stats.vercel.app/api?username=seokjun7410&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjun7410)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hoding)](https://solved.ac/hoding)
 </div>
