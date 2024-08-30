@@ -17,11 +17,8 @@
   <img src="https://img.shields.io/badge/lambda-232F3E?style=for-the-badge&logo=awslambda&logoColor=white"> 
   <img src="https://img.shields.io/badge/s3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white"> 
   <img src="https://img.shields.io/badge/rds-232F3E?style=for-the-badge&logo=amazonrds&logoColor=white"> 
-  <img src="https://img.shields.io/badge/dynamodb-232F3E?style=for-the-badge&logo=amazondynamodb&logoColor=white"> 
   <img src="https://img.shields.io/badge/cloudwatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"> 
     <img src="https://img.shields.io/badge/ecs-232F3E?style=for-the-badge&logo=amazonecs&logoColor=white"> 
-    <img src="https://img.shields.io/badge/eks-232F3E?style=for-the-badge&logo=amazoneks&logoColor=white"> 
-      <img src="https://img.shields.io/badge/sqs-232F3E?style=for-the-badge&logo=amazonsqs&logoColor=white"> 
   
   <br><br>
    <img src="https://img.shields.io/badge/ubuntu-232F3E?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -34,9 +31,6 @@
   <img src="https://img.shields.io/badge/redis-232F3E?style=for-the-badge&logo=redis&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/rabbitmq-232F3E?style=for-the-badge&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/apachekafka-232F3E?style=for-the-badge&logo=apachekafka&logoColor=white">
 </div>
 <br>
 <div align="center">
