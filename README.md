@@ -49,11 +49,11 @@
 
 ---
 
-## 🌐 오픈소스 / 커뮤니티 활동
-* **\[2025]** javaparser/javaparser 오픈소스 기여(Contribute)
+## 🌐 커뮤니티 활동
+* **\[2025]** Square/OkHttp Docs & Recipe [PullRequest](https://github.com/square/okhttp/pull/9033)
+* **\[2025]** javaparser [Contribute](https://github.com/javaparser/javaparser/pull/4823)
 * **\[2024]** 길벗 24차 개발자 리뷰어 – *읽기 쉬운 코드* (마크 시먼)
-* **\[2024]** Square/OkHttp 오픈소스 기여(Contribute)
-* **\[2024]** 오픈소스 멘토링 참여
+* **\[2024]** Square/OkHttp Recipe [Contribute](https://github.com/square/okhttp/pull/9033)
 * **\[2023]** 컴퓨터공학 학술 소모임 참여
 
 ---
