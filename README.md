@@ -36,34 +36,3 @@
 <div align="left">
   
 
----
-
-
-## 🎓 교육 / 수료
-* **\[2024]** 소프트웨어 마에스트로 15기
-
----
-
-## 🌐 커뮤니티 활동
-* **\[2025]** Square/OkHttp [Docs/PR](https://github.com/square/okhttp/pull/9033)
-* **\[2025]** javaparser [Refactor/Contribute](https://github.com/javaparser/javaparser/pull/4823)
-* **\[2024]** 길벗 24차 개발자 리뷰어 – *읽기 쉬운 코드* (마크 시먼)
-* **\[2024]** Square/OkHttp [Docs/Contribute](https://github.com/square/okhttp/pull/8493)
-* **\[2023]** 컴퓨터공학 학술 소모임 참여
-
----
-
-## 💻 프로젝트 경험
-* **\[2025] 소모임 관리 서비스 ‘온모임’** 
-   * 채팅 도메인 담당
-* **\[2024.09 \~ 진행중] API 문서 자동생성 서비스 ‘APIDOC43’**
-* **\[2024.01 \~ 2024.04] REST Docs 래퍼 라이브러리 ‘easy-rest-redocly’**
-* **\[2023.01 \~ 2023.10] 축구 레슨 중개 서비스 ‘허슬풋볼’**
-   * 백엔드 전담, JAVA, SpringBoot, MySQL, AWS 
-* **\[2022.08 \~ 2022.10] 풋살 자동 촬영 서비스 ‘FEVER’**
-   * PG 모듈 연동
-   * 영상 업로드 API 개발
-* **\[2022.10 \~ 2022.11] PC 채팅 프로그램** 
-   * TCP/IP Socket + Java Swing 프로그래밍 구현
-
----
